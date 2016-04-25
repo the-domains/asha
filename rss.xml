@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[asha]]></title>
         <description><![CDATA[asha]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/asha/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 19:13:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 19:14:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/asha/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/336ca779-34db-4d01-ae20-96acb4a55e67.jpg">]]></description>
-            <link>undefineda-long-gaze-at-a-setting-or-rising-sun-on-the-horizon-tastes/index.html</link>
+            <link>https://thegrid.ai/asha/a-long-gaze-at-a-setting-or-rising-sun-on-the-horizon-tastes/index.html</link>
             <guid isPermaLink="false">a68c96cb-d678-4d37-9e23-daee19e8c713</guid>
-            <pubDate>Mon, 25 Apr 2016 19:13:09 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2016 19:14:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
