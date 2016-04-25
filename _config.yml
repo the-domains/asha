@@ -1,0 +1,28 @@
+name: asha
+favicon: null
+layout_spectrum: 0.9684507672209293
+typography_spectrum: 0.2988880625925958
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9628760078921914
+  lightness: 0.7250700243748724
+  saturation: 0.22541055385954678
+  rhythmicContrast: 0.21254814509302378
+purpose: []
